@@ -1,9 +1,32 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+  {
+    "id": 1,
+    "url": "https://i.pinimg.com/originals/59/35/62/593562dec3fef92f38816517932f50b2.jpg",
+    "alt": "Image 1"
+  },
+  {
+    "id": 2,
+    "url": "https://wallpapers-clan.com/wp-content/uploads/2023/06/harry-potter-diagon-alley-wallpaper.jpg",
+    "alt": "Image 2"
+  },
+  {
+    "id": 3,
+    "url": "https://images7.alphacoders.com/119/1192080.jpg",
+    "alt": "Image 3"
+  },
+  {
+    "id": 4,
+    "url": "https://i.pinimg.com/736x/75/39/b1/7539b135e47c6792302dd83bddb8bd18.jpg",
+    "alt": "Image 4"
+  },
+  {
+    "id": 5,
+    "url": "https://wallpaperaccess.com/full/276524.jpg",
+    "alt": "Image 5"
+  },
+  {
+    "id": 6,
+    "url": "https://cdn.magicawakened.com/app/uploads/2023/04/18143331/Potter_Wall_July_Vert_01_A_DD-1-576x1024.jpg",
+    "alt": "Image 6"
+  }
+]
